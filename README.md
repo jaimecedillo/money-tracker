@@ -1,3 +1,4 @@
+
 # Money Tracker
 
 
@@ -7,7 +8,7 @@ A Progressive Web Application that helps user track withdrawals and deposits wit
 
 Application Link: [Here](https://money-tracker19.herokuapp.com/)
 
-![Application Screenshot](https://github.com/jaimecedillo/money-tracker/blob/main/screenshot.png)
+![Application Screenshot](https://user-images.githubusercontent.com/74879881/120935188-cd934a00-c6be-11eb-9e04-96bfcc3fabd3.png)
 
 
 ## Installation
